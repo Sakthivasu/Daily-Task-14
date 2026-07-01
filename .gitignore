@@ -1,0 +1,3 @@
+# Exclude admin binary photo test samples from pushing to github
+backend/static/uploads/*
+!backend/static/uploads/.gitkeep
